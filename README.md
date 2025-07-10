@@ -115,3 +115,26 @@ Your article content here in Markdown format.
 - Use proper heading hierarchy (H1, H2, H3)
 - Optimize images with alt text
 - Include internal and external links where relevant
+
+## Working with Images
+
+### Uploading Images
+
+1. Navigate to `assets/images/` in the GitHub repository
+2. Click "Add file" → "Upload files"
+3. Drag and drop your images
+4. Use descriptive filenames: `article-name-screenshot-1.png`
+5. Commit with a message: "Add images for [article name]"
+
+### Image Guidelines
+
+- **File formats:** JPG, PNG, GIF, SVG
+- **File size:** Keep under 1MB for web performance
+- **Naming:** Use descriptive, kebab-case names
+- **Alt text:** Always include descriptive alt text for accessibility
+
+### Using Images in Articles
+
+```
+![A perfect cup of coffee](/assets/images/warm-coffee.png)
+```

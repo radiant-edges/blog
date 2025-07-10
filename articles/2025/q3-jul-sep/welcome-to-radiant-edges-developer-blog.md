@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Radiant Edges Developer Blog"
 author: "Radiant Edges Team"
-date: "2025-07-15"
+date: "2025-07-08"
 tags: ["Welcome", "Community", "Developer", "Blog"]
 excerpt: "Introducing the Radiant Edges developer blog - a space for engineering insights, technical discussions, and community collaboration."
 slug: "welcome-to-radiant-edges-developer-blog"

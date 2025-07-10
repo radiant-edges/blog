@@ -4,6 +4,7 @@ This repository contains all blog content for the Radiant Edges community site.
 
 ## Repository Structure
 
+```
 blog/
 ├── articles/           # Blog posts organized by year/quarter
 │   ├── 2025/
@@ -19,6 +20,7 @@ blog/
 ├── assets/           # Shared images, videos, code samples
 ├── templates/        # Article templates
 └── README.md
+```
 
 ## Getting Started
 
@@ -49,6 +51,7 @@ blog/
 
 Each article should follow this frontmatter structure:
 
+```yaml
 ---
 title: "Your Article Title"
 author: "Author Name"
@@ -57,6 +60,7 @@ tags: ["AI", "UI/UX", "Engineering"]
 excerpt: "Brief description of the article content..."
 slug: "your-article-slug"
 ---
+```
 
 # Article Title
 
